@@ -1,4 +1,4 @@
-# Sentiment Analysis with Multi-Embedding Fusion and BERT Optimization
+# Sentiment-Classification-through-Multi-Modal-BERT-Fusion-and-Embedding-Optimization
 
 This project implements a progressive pipeline for sentiment analysis, starting from traditional models like TF-IDF and advancing to powerful contextual embedding techniques like BERT. By evaluating each method on a custom-labeled dataset of Google Play Store reviews, this project highlights the strengths, limitations, and improvements across various NLP techniques.
 
@@ -95,6 +95,7 @@ contractions
 ## 📜 License
 
 This project is part of the B.Tech curriculum at Shiv Nadar University and is intended for academic and educational purposes.
+
 
 
 
